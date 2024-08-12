@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupal Patel Yadav</h1>
 <h3 align="center">A passionate Frontend Developer from India .</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> 
+<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupalpy&label=Profile%20views&color=0e75b6&style=flat" alt="rupalpy" /> </p>
 
@@ -38,4 +38,12 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> --> -->
 </div>
+
+<br>
+<br>
+
+  <img align="center" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" />
+
+
+
 
